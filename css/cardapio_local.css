@@ -1,0 +1,23 @@
+.secundaria {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardapio h2, .local h2{
+    color: #B83229;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.cardapio p, .local p{
+    color: #005920;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+
+.cardapio, .local{
+    width: 565px;
+}

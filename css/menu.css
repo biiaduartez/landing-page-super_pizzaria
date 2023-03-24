@@ -1,0 +1,25 @@
+header img {
+    width: 250px;
+}
+
+.menu {
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+}
+
+a.menu:link {
+    color: #B83229;
+}
+
+a.menu:visited {
+    color: #B83229;
+}
+
+a.menu:hover {
+    color: #005920
+}
+
+a.menu:active {
+    color: #B83229;
+}
